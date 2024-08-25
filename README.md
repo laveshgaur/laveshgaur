@@ -7,7 +7,7 @@
 <body>
 <details>
     <summary>
-        <h1><i><a href="https://github.com/laveshgaur/laveshgaur/blob/main/index.html">Hello</a></i></h1>
+        <h1><i><a href="index.html">Hello</a></i></h1>
     </summary>
 </details>   
 </body>
