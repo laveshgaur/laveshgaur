@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <details>
     <details><summary>
         <h1><i>About Me</i></h1></summary>
         <p><i>
@@ -47,8 +46,7 @@
         <a href="https://www.hackerrank.com/profile/laveshgaur">HackerRank Profile</a>
         <br>
         <a href="https://www.hackerrank.com/certificates/9981ef2f818e">Python (Basic)</a>
-        
-    </p>
+     </p>
      </details>
      <hr>
      <!-- Certificates and coading profile Portion Completed-->
@@ -73,7 +71,7 @@
       </details>
       <hr>
       <!-- Profiles Portion completed -->
-    </details>
+
 </body>
 </html>
 <!---
