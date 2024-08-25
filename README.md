@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
- <p>- 👋 Hi, I’m Lavesh Gaur.
-    <br>- 👀 I’m interested in CyberSecurity.
-    <br>- 🌱 I’m currently learning DSA in B.Tech 2nd year.
- </p>   
+<details>
+    <summary>
+        <h1><i><a href="https://github.com/laveshgaur/laveshgaur/blob/main/index.html">Hello</a></i></h1>
+    </summary>
+</details>   
 </body>
 </html>
 <!---
