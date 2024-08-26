@@ -38,10 +38,10 @@
     </details>
     <hr>
     <!-- Education portion completed -->
-    <!-- Certificates and coading profile Portion -->
+    <!-- Certificates and coding profile Portion -->
      <details>
         <summary>
-            <h1><i>Certificates And Coading Profiles</i></h1>
+            <h1><i>Certificates And Coding Profiles</i></h1>
         </summary>
      <p>
         <a href="https://www.hackerrank.com/profile/laveshgaur">HackerRank Profile</a>
@@ -50,7 +50,7 @@
      </p>
      </details>
      <hr>
-     <!-- Certificates and coading profile Portion Completed-->
+     <!-- Certificates and coding profile Portion Completed-->
      <!-- Profiles Portion -->
       <details>
         <summary>
