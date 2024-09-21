@@ -11,7 +11,7 @@
         <p><i>
             <a>
   <img src="https://visitcount.itsvg.in/api?id=laveshgaur&label=Profile%20Views&pretty=false" />
-</a>
+</a><br>
             - 👋 Hi, I’m Lavesh Gaur.
             <br>- 👀 I’m interested in CyberSecurity.
             <br>- 🌱 I’m from Aligarh and currently I am in Greater Noida.
