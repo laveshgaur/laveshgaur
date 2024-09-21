@@ -9,7 +9,7 @@
     <details><summary>
         <h1><i>About Me</i></h1></summary>
         <p><i>
-            <a href="https://visitcount.itsvg.in">
+            <a>
   <img src="https://visitcount.itsvg.in/api?id=laveshgaur&label=Profile%20Views&pretty=false" />
 </a>
             - 👋 Hi, I’m Lavesh Gaur.
