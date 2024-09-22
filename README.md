@@ -1,84 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <details><summary>
-        <h1><i>About Me</i></h1></summary>
-        <p><i>
-            <a>
-  <img src="https://visitcount.itsvg.in/api?id=laveshgaur&label=Profile%20Views&pretty=false" />
-</a><br>
-            - 👋 Hi, I’m Lavesh Gaur.
-            <br>- 👀 I’m interested in CyberSecurity.
-            <br>- 🌱 I’m from Aligarh and currently I am in Greater Noida.
-        </i></p>
-    <hr>
-    <!-- About me completed -->
-     <!-- Education portion -->
-     <details><summary>
-        <h1><i>Education</i></h1>
-     </summary>
-     <p>
-        Pursuing a BTech from <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>.
-        <br>
-        Currently I am in 2nd Year.
-        <br>
-     </p>
-        <details>
-            <summary>
-            <h3><i>Specializations</i></h3>
-            </summary>
-            <p>
-                I am from CyberSecurity Specialization. 
-                <br>
-            </p>
-            </details>
-    </p>
-    </details>
-    <hr>
-    <!-- Education portion completed -->
-    <!-- Certificates and coding profile Portion -->
-     <details>
-        <summary>
-            <h1><i>Certificates And Coding Profiles</i></h1>
-        </summary>
-     <p>
-        <a href="https://www.hackerrank.com/profile/laveshgaur">HackerRank Profile</a>
-        <br>
-        <a href="https://www.hackerrank.com/certificates/9981ef2f818e">Python (Basic)</a>
-     </p>
-     </details>
-     <hr>
-     <!-- Certificates and coding profile Portion Completed-->
-     <!-- Profiles Portion -->
-      <details>
-        <summary>
-            <h1><i>Connect with me </i></h1>
-        </summary>
-        <p>
-            What are you waiting for... 
-            <br>
-            Bring your cursor and hit the button you want
-            <br>
-            <a href="https://github.com/laveshgaur"><img src="GitHub.jpg" alt="GitHub" height="60"></a>
-            <br>
-            <a href="https://www.linkedin.com/in/laveshgaur/"><img src="linkedin-logo.jpg" alt="LinkedIn" height="60"></a>
-            <br>
-            <a href="https://www.instagram.com/__lavesh_gaur__/"><img src="instagram-logo.jpg" alt="Instagram" height="60"></a>
-            <br>
-            <a href="mailto:laveshgaur1@gmail.com"><img src="mail.jpg" alt="Mail" height="70"></a>
-        </p>
-      </details>
-      <hr>
-      <!-- Profiles Portion completed -->
+# 💫 About Me:
+I'm a 2nd year student pursuing b.tech in CSE(Cyber Security) from Noida Institute of Engg. and Technology.<br>I'm working on JAVA.<br>I started my DSA journey.<br>I also have command over C and Python programming languages.  
 
-</body>
-</html>
-<!---
-laveshgaur/laveshgaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lavesh_gaur__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laveshgaur) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=laveshgaur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=laveshgaur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laveshgaur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=laveshgaur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=laveshgaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=laveshgaur&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
