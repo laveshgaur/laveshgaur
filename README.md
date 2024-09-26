@@ -18,7 +18,7 @@ I'm a 2nd year student pursuing b.tech in CSE(Cyber Security) from Noida Institu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=laveshgaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://wakatime.com/@812a5742-00ea-42e0-a253-0ca4325ed3e0"><img src="https://wakatime.com/badge/user/812a5742-00ea-42e0-a253-0ca4325ed3e0.svg" alt="Total time coded since Sep 22 2024" /></a>
+<a><img src="https://wakatime.com/badge/user/812a5742-00ea-42e0-a253-0ca4325ed3e0.svg" alt="Total time coded since Sep 22 2024" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=laveshgaur&icon=0&color=0)](https://visitcount.itsvg.in)
 
