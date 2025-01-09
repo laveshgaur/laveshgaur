@@ -19,6 +19,5 @@ I'm a 2nd year student pursuing b.tech in CSE(Cyber Security) from Noida Institu
 
 --- 
 [![](https://visitcount.itsvg.in/api?id=laveshgaur&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=laveshgaur&label=PROFILE+VIEWS)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--![](https://komarev.com/ghpvc/?username=laveshgaur&label=PROFILE+VIEWS)
+-->
