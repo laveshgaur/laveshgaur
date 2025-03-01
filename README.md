@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd year student pursuing B.Tech in CSE(Cyber Security) from Noida Institute of Engineering and Technology.<br>I started my DSA journey.<br>I also have command over C,JAVA and Python programming languages.  
+I'm a 2nd year student pursuing B.Tech in CSE(Cyber Security) from Noida Institute of Engineering and Technology.<br>I started my DSA journey.<br>I also have command over C, JAVA and Python programming languages.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lavesh_gaur__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laveshgaur) 
