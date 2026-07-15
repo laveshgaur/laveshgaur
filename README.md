@@ -1,12 +1,12 @@
 # Hi 👋 I'm Lavesh Gaur
 
-A passionate full-stack developer and 3rd year B.Tech student in Computer Science Engineering (Cyber Security) from Noida Institute of Engineering and Technology. I love building innovative solutions that solve real-world problems through code.
+A passionate full-stack developer and 4th year B.Tech student in Computer Science Engineering (Cyber Security) from Noida Institute of Engineering and Technology. I love building innovative solutions that solve real-world problems through code.
 
 ---
 
 ## 💫 About Me:
 - 🎓 4th year B.Tech student in **CSE (Cyber Security)** at **NIET, Noida**
-- 💻 Strong foundation in **Data Structures & Algorithms** (420+ LeetCode problems solved)
+- 💻 Strong foundation in **Data Structures & Algorithms** (440+ LeetCode problems solved)
 - 🚀 Full-stack developer with expertise in **React, Spring Boot, Java, and Python**
 - 🛠️ Built multiple production-ready applications including LMS, Inventory Systems, and Real-time Chat Applications
 - 📚 Proficient in **C, Java, and Python** programming languages
@@ -89,7 +89,7 @@ Real-time web chat application with WebSocket support for bi-directional communi
 ---
 
 ## 📈 Competitive Programming:
-- **LeetCode:** 420+ problems solved | Expertise in DSA
+- **LeetCode:** 440+ problems solved | Expertise in DSA
 - **Problem Solving:** Data Structures, Algorithms, System Design
 
 ---
